@@ -21,7 +21,7 @@ A Minecraft Datapack that detects WASD inputs while mounted or walking!
     </tr>
 </table>
 
-By Default a demo command is left in wasd:main which runs a function to show an example use-case in the function "wasd:demo_output"
+By Default a demo command is left in wasd:main which runs a function to show an example use-case in the function "wasd:demo/print_subtitle_mounted"
 
 ## Contributors 🧱
 
