@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/VzjQ7kFKqD)
 [![Tutorial](https://img.shields.io/badge/Tutorial-▶-red.svg)](https://www.youtube.com/watch?v=77jQnRSYYss)
-[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/WASD-Detection/total.svg)](https://github.com/CloudWolfYT/WASD-Detection/releases)
+[![Downloads](https://img.shields.io/github/downloads/CloudWolfYT/WASD-Detection/total.svg)](https://github.com/CloudWolfYT/WASD-Detection/)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 A Minecraft Datapack that detects WASD inputs while mounted or walking!
 
